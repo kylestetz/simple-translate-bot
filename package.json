@@ -1,0 +1,12 @@
+{
+  "name": "simple-translate-bot",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "slack-client": "l12s/node-slack-client",
+    "yandex-translate": "^2.1.0"
+  }
+}
