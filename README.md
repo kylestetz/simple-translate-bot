@@ -13,4 +13,4 @@ To run this bot on your Slack:
 SLACK_TOKEN=xoxb-123456 YANDEX_TOKEN=trnsl.1.1.123456 node index.js
 ```
 
-:robot_face: :v:
+:v:
